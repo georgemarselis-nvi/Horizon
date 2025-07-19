@@ -1,8 +1,9 @@
 Horizon adds automated policy-driven tiering with hooks to Tundra 
 
-a killer feature:
+
 
 <!-- 
+a killer feature:
 
 Real-time per-project usage
 Metadata heatmaps
