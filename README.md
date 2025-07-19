@@ -1,1 +1,25 @@
 Horizon adds automated policy-driven tiering with hooks to Tundra 
+
+a killer feature:
+
+<!-- 
+
+Real-time per-project usage
+Metadata heatmaps
+Quota + tier insight without crawling
+Works at zettabyte scale
+No one has built this cleanly. Build it into Stratum or a side module.
+Every HPC admin will want it.
+
+BeeGFS (and most HPC FS) don’t track usage live, they rely on:
+Daily cronjobs
+Full FS crawls
+Manual parsing of du/find
+It’s brittle, slow, and error-prone.
+You build real-time project-level tracking?
+That’s another enterprise-grade product right there.
+
+interactive treemap support via a separate Horizon-querying daemon, like treewiz/baobab does. as fast as that. 
+and simple reports to users that show them usage. they can go log in if htey want full analysis.
+
+--> 
