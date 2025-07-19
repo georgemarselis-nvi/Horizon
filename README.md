@@ -23,13 +23,6 @@ That’s another enterprise-grade product right there.
 Plasma:
 
 interactive treemap support/module  visual/reporting module of Horizon via a separate Horizon-querying daemon, like treewiz/baobab does. as fast as that. 
-and simple reports to users that show them usage. they can go log in if htey want full analysis.
-
-
-is a great name:
-Evokes energy, flow, and visibility
-Fits thematically with Horizon, Aurora, Tundra
-Sounds fast, dynamic—perfect for real-time storage heatmaps
-Use it for the
+and simple reports to users that show them usage. they can go log in if htey want full analysis. real-time storage heatmaps
 
 --> 
