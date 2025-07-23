@@ -59,4 +59,10 @@ Enforced on every open/access, not just login
 would enable true FS-level zero-trust. 
  onverging storage, security, and HPC into a unified architecture nobody else has nailed yet. And it’s all modula
 
+
+EU Horizon grants (e.g. for HPC, FAIR data)
+Norwegian Research Council (Forskningsrådet)
+Public sector digitization funds (esp. for universities/institutes)
+Industry partnerships (bioinformatics, storage vendors)
+
 --> 
